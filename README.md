@@ -10,3 +10,9 @@ A smart tool that reminds you to get up and walk every hour. It keeps you health
 ## Built with 🛠️
 - Python
 - customtkinter
+
+  ## How to use 🚀
+1. Go to the [Releases] section 
+2. Download the `main.exe` file.
+3. Double-click the file to run the application.
+4. It will now run in the background and remind you every hour!
